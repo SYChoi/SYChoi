@@ -7,34 +7,36 @@
 > ## General Programming Languages
 > > * C/C++
 > > * Python
-> > * js
+> > * js/ts
 > > * C#
 > > * JAVA
 > ## Web Publishing Languages
 > > * HTML
 > > * CSS
-> ## DB Query Languages
-> > * mysql
-> > * Oracle
 <hr>
 
-# 🌱 I’m currently learning
+# 🌱 My Stack
 > ## System Programming
 > > * Theory of Computer System (OS, Comp. Struct.)
-> > * Worked at CASL in UNIST for 1yr (Now changed to ISSL)
+> > * Worked at CASL in UNIST (Now changed to ISSL) for 1yr. (2017.10. ~ 2018.11.)
 > ## Full stack development of web/App programming
 > > ### BackEnd
 > > > * Python - Django
 > > > * JS - node.js
+> > > * Work at HelpMe as backend engineer now. (2021.02. ~)
 > > ### FrontEnd
 > > > * react
 > > > * react-native
 > > > * Android(Vanilla)
+> > ### DataBase
+> > > * mySQL
+> > > * mongoDB
 > ## Game Programming
 > > * Unity 3D
 > ## Machine Learning
 > > * PyTorch
 > > * TensorFlow
+> > * Keras
 <hr>
 
 # 👯 I’m looking to collaborate on
