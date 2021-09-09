@@ -23,7 +23,8 @@
 > > ### BackEnd
 > > > * Python - Django
 > > > * JS - node.js
-> > > * Work at HelpMe as backend engineer now. (2021.02. ~)
+> > > * Java - Spring
+> > > * Working at HelpMe as backend engineer now. (2021.02. ~)
 > > ### FrontEnd
 > > > * react
 > > > * react-native
@@ -40,11 +41,11 @@
 <hr>
 
 # 👯 I’m looking to collaborate on
-> * Any Project That I can enjoy with my contribution.
+> * Any project that I can enjoy with my contribution.
 <hr>
 
 # 🤔 I’m looking for help with
-> * Some Problems during development.
+> * Some problems during development.
 <hr>
 
 # 💬 Ask me about
