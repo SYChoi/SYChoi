@@ -10,7 +10,7 @@
 > ## General Programming Languages
 > > * C/C++
 > > * Python
-> > * js/ts
+> > * JS/TS
 > > * C#
 > > * JAVA
 > ## Web Publishing Languages
@@ -25,16 +25,18 @@
 > ## Full stack development of web/App programming
 > > ### BackEnd
 > > > * Python - Django
-> > > * JS - node.js
-> > > * Java - Spring
-> > > * Working at HelpMe as backend engineer now. (2021.02. ~)
+> > > * JS/TS - nest.js / express.js
+> > > * Java - Spring Boot
+> > > * Working at Standby(HelpMe changed name) as backend lead engineer now. (2021.02. ~)
 > > ### FrontEnd
 > > > * react
 > > > * react-native
 > > > * Android(Vanilla)
 > > ### DataBase
 > > > * mySQL
+> > > * mariaDB
 > > > * mongoDB
+> > > * redis
 > ## Game Programming
 > > * Unity 3D
 > ## Machine Learning
@@ -44,15 +46,7 @@
 <hr>
 
 # 👯 I’m looking to collaborate on
-> * Any project that I can enjoy with my contribution.
-<hr>
-
-# 🤔 I’m looking for help with
-> * Some problems during development.
-<hr>
-
-# 💬 Ask me about
-
+> * Any project that I can enjoy with my contribution. 
 <hr>
 
 # 📫 How to reach me:
